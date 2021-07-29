@@ -1,0 +1,3 @@
+[submodule "CaseRuntime/sat"]
+	path = CaseRuntime/sat
+	url = https://github.com/linxs953/simple-auto-flow
