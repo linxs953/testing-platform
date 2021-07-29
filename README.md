@@ -1,1 +1,1 @@
-# sat-platform
+# testing-platform
